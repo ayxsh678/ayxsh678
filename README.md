@@ -23,9 +23,8 @@ ayush = {
     "name":        "Ayush Verma",
     "role":        "Data / ML Engineer",
     "passion":     "Building AI that actually does stuff™",
-    "superpower":  "RAG Pipelines + LLM Architecture + Multimodal AI",
+    "superpower":  "RAG Pipelines + LLM Architecture + Multimodal AI, Workflow     Automations",
     "status":      "🟢 Open to Freelance & Full-Time Opportunities",
-    "fun_fact":    "I make AI match your stack to your dream job 🎯",
 }
 ```
 
@@ -33,7 +32,7 @@ ayush = {
 
 ## 🚀 Featured Project
 
-### 🔥 [StackMatch AI](https://github.com/ayushverma567) — *"Your Stack. Your Match."*
+### 🔥 [StackMatch AI](https://github.com/StackMatch) — *"Your Stack. Your Match."*
 
 > An AI-powered job matcher that analyzes your tech stack and finds the roles built for YOU.
 
@@ -47,24 +46,35 @@ ayush = {
 
 <div align="center">
 
-### 🐍 AI / ML Core
+### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🧬 LLM / GenAI
-![LLM Architecture](https://img.shields.io/badge/LLM%20Architecture-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-06B6D4?style=for-the-badge&logo=databricks&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge&logo=chatbot&logoColor=white)
-![Multimodal AI](https://img.shields.io/badge/MultiModal%20AI-EC4899?style=for-the-badge&logo=google&logoColor=white)
-
-### 🌐 Web & Data
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white)
+
+**Frameworks:** PyTorch · Scikit-learn · TensorFlow · Hugging Face Transformers
+
+### 🧬 Generative AI & LLMs
+![Generative AI](https://img.shields.io/badge/Generative%20AI-10B981?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Architecture](https://img.shields.io/badge/LLM%20Architecture-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-06B6D4?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=for-the-badge&logo=openai&logoColor=white)
+![Multimodal AI](https://img.shields.io/badge/MultiModal%20AI-EC4899?style=for-the-badge&logo=google&logoColor=white)
+
+### ☁️ Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Web
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </div>
 
@@ -74,14 +84,14 @@ ayush = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushverma567&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushverma567&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayxsh678&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayxsh678&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayushverma567&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayxsh678&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
