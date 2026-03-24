@@ -25,7 +25,6 @@ ayush = {
     "passion":     "Building AI that actually does stuff™",
     "superpower":  "RAG Pipelines + LLM Architecture + Multimodal AI",
     "status":      "🟢 Open to Freelance & Full-Time Opportunities",
-    "fun_fact":    "I make AI match your stack to your dream job 🎯",
 }
 ```
 
