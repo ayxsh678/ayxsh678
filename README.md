@@ -23,8 +23,9 @@ ayush = {
     "name":        "Ayush Verma",
     "role":        "Data / ML Engineer",
     "passion":     "Building AI that actually does stuff™",
-    "superpower":  "RAG Pipelines + LLM Architecture + Multimodal AI, Workflow     Automations",
+    "superpower":  "RAG Pipelines + LLM Architecture + Multimodal AI",
     "status":      "🟢 Open to Freelance & Full-Time Opportunities",
+    "fun_fact":    "I make AI match your stack to your dream job 🎯",
 }
 ```
 
@@ -32,7 +33,7 @@ ayush = {
 
 ## 🚀 Featured Project
 
-### 🔥 [StackMatch AI](https://github.com/StackMatch) — *"Your Stack. Your Match."*
+### 🔥 [StackMatch AI](https://github.com/ayushverma567) — *"Your Stack. Your Match."*
 
 > An AI-powered job matcher that analyzes your tech stack and finds the roles built for YOU.
 
@@ -72,9 +73,12 @@ ayush = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 Web
+### 🌐 Web & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -111,6 +115,7 @@ ayush = {
 |---|---|
 | ML / AI Engineer | Full-Time |
 | Data Scientist | Full-Time / Contract |
+| Backend Developer | Full-Time / Freelance |
 | LLM / GenAI Developer | Freelance |
 | AI Consultant | Freelance |
 
